@@ -66,3 +66,5 @@
     corrected_mistake
     5. commit 'cb9dae6b1ebb65caaab5e615947200594192b47a'
     add comments for functions in circle.py, rectangle.py, square.py, triangle.py
+    6. commit '3b4a2f537849bf6731377beee6c37ba96cb7e243'
+    Edit comments
