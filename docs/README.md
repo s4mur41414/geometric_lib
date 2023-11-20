@@ -68,3 +68,5 @@
     add comments for functions in circle.py, rectangle.py, square.py, triangle.py
     6. commit '3b4a2f537849bf6731377beee6c37ba96cb7e243'
     Edit comments
+    7. commit 'c09cea334e4b33e61a444e808c5a986f86eed662'
+    Added tests for rectangle.py, triangle.py, circle.py, square.py
